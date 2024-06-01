@@ -10,7 +10,7 @@
     background-attachment: fixed;
   }
 
-  /* Header */
+  /*------Header--------*/
   .header {
     background-color: rgba(97, 95, 95, 0.514);
     display: flex;
@@ -48,7 +48,7 @@
     cursor: pointer;
   }
   
-  /* Main  */
+  /*-------Main------*/
   .main {
     height: 50vh;
     width: 100%;
@@ -88,7 +88,7 @@
     background-color: rgb(8, 173, 118);
     transform: scale(0.9);
   }
-  /* Table Area Css */
+  /*--------Table-------*/
   .table-container {
     width: 80%;
     margin: 20px auto;
@@ -113,7 +113,7 @@
     background-color: rgb(110, 103, 103);
     color: #000;
   }
-  /* Form */
+  /*--------Form--------*/
   .form-container {
     width: 80%;
     height: 350px;
@@ -159,7 +159,7 @@
     background-color: rgba(0, 98, 255, 0.5);
   }
   
-  /* Footer */
+  /*---------Footer------*/
   .footer {
     background-color: #333;
     height: 110px;
