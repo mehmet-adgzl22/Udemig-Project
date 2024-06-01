@@ -10,7 +10,7 @@
     background-attachment: fixed;
   }
 
-  /* Header Css */
+  /* Header */
   .header {
     background-color: rgba(97, 95, 95, 0.514);
     display: flex;
@@ -48,7 +48,7 @@
     cursor: pointer;
   }
   
-  /* Main Area Css */
+  /* Main  */
   .main {
     height: 50vh;
     width: 100%;
@@ -106,7 +106,6 @@
     transition: all 0.5s;
   }
   td:hover {
-    /* background-color: rgb(110, 103, 103); */
     background: url(./image/foto.jpg);
     background-size: cover;
   }
@@ -114,7 +113,7 @@
     background-color: rgb(110, 103, 103);
     color: #000;
   }
-  /* Form Area Css  */
+  /* Form */
   .form-container {
     width: 80%;
     height: 350px;
@@ -160,7 +159,7 @@
     background-color: rgba(0, 98, 255, 0.5);
   }
   
-  /* Footer Area Css */
+  /* Footer */
   .footer {
     background-color: #333;
     height: 110px;
@@ -170,17 +169,7 @@
     justify-content: center;
     align-items: center;
   }
-  
-  /* Html ile oluşturulan yapıların tüm cihazlarda uyumlu şekilde çalışması 
-  durumuna 'Responsive Tasarım' denilir.
-  Bu özellik uı geliştirme noktasında önemlidir.Çünkü bu sayede her cihaz için güzel arayüzler elde ederiz.
-  
-  Responsive tasarım için 'media etiketleri kullanılır.Bu yapı oluşturulurken 
-  @media yapsı çağırılır ve yanında hangi ekran boyutunda  hangi özelliklere 
-  sahip olması gerektiği belirtilir.
-  ör: Ekran belirli genişlik altına düşünce uyumsuz yapılara için şu özellikler eklesin denilebilir.
-  */
-  
+    
   @media (max-width: 800px) {
     .header .nav {
       display: none;
