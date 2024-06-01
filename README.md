@@ -15,6 +15,7 @@
 </ul>
 
 
-#  Udemig-Project Ekran Görüntüsü
-![ekran görünüsü](https://github.com/mehmet-adgzl22/Udemig-Project/assets/169144147/ef7c6b40-5395-4697-979b-bb74087311ae)
+#  Udemig-Project Ekran Gifi
+![Adsız tasarım](https://github.com/mehmet-adgzl22/Udemig-Project/assets/169144147/0869a392-3465-4965-89b9-e3f6ec239963)
+
 
