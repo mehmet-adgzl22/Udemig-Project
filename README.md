@@ -12,7 +12,9 @@
   <li>Font Awesome</li>
   <li>Visual Studio Code</li>
 </ul>
+
 # Proje Bağlantı Linki
+
 https://udemig-project-hs11.netlify.app/
 
 #  Udemig-Project Ekran Gifi
